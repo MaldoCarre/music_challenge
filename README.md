@@ -7,3 +7,6 @@
 ### 6) Excecute 'python manage.py runserver'
 ### 7) Once the server is running you con use you favorite app to thest the 'http://localhost:8000/artist?name=' endpoint (in my case I use insomnia)
 ### 8) You can also run the unittest excecuting 'python manage.py test music'
+
+# Screen shot
+![ChallengeGlobant](https://user-images.githubusercontent.com/38377990/188472448-8aef3db9-1d0d-4684-8277-bbfbe497e5a6.png)
